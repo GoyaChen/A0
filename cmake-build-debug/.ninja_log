@@ -1,0 +1,4 @@
+# ninja log v5
+2	131	1642182187072398200	build.ninja	a84e25196af3edf9
+0	1276	1642182188415834200	CMakeFiles/A0.dir/Main/StackTest/source/StackQUnit.cc.o	9bc437c11915f222
+1	1334	1642182188472461400	CMakeFiles/A0.dir/Main/StackTest/source/StackQUnit-3-2.cc.o	a2de09da0cfd1118
